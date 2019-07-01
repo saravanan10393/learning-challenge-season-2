@@ -5,7 +5,7 @@
 - Docker
 
 
-# My Daily learning: (Sample)
+# My Daily learning:
 
 ## July 1
 - I learnt basics of docker from official documentation https://docs.docker.com/engine/docker-overview/
