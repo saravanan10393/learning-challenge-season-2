@@ -15,3 +15,7 @@
 ## July 2
 Learnt the fundamentals of flask from here http://flask.pocoo.org/docs/1.0/
 Set up and ran the hello world flask server using docker
+
+## July 3
+Learnt the fundamentals of cUrl from here https://ec.haxx.se/
+Wrote the dummy api for user registration. Yet to connect db.
