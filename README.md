@@ -19,3 +19,6 @@ Set up and ran the hello world flask server using docker
 ## July 3
 Learnt the fundamentals of cUrl from here https://ec.haxx.se/
 Wrote the dummy api for user registration. Yet to connect db.
+
+## July 4
+- Today i learned mongodb CRUD operation and set up the environment to workon with project.
